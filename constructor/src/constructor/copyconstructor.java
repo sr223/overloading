@@ -1,5 +1,7 @@
 package constructor;
 //Hello java 
+
+//git hub setup
 public class copyconstructor {
 	    int id;  
 	    String name;  
