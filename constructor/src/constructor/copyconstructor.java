@@ -1,5 +1,5 @@
 package constructor;
-//Hello
+//Hello java 
 public class copyconstructor {
 	    int id;  
 	    String name;  
