@@ -1,7 +1,7 @@
 package constructor;
 //Hello java 
 
-//git hub setup
+//git hub setup hides
 public class copyconstructor {
 	    int id;  
 	    String name;  
